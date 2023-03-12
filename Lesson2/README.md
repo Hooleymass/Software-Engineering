@@ -50,8 +50,8 @@ In the next lesson, we will cover more advanced concepts in C programming, inclu
 
 
 <div>
-  <a style="align-text: left;" href="Lesson1/README.md" class="previous-button">&laquo; Previous Page</a>
+  <a style="align-text: left;" href="Software-Engineering/Lesson1/README.md" class="previous-button">&laquo; Previous Page</a>
 </div>
 <div>
-  <a style="align-text: right;" href="Lesson3/README.md" class="next-button">Next Page &raquo;</a>
+  <a style="align-text: right;" href="Software-Engineering/Lesson3/README.md" class="next-button">Next Page &raquo;</a>
 </div>
