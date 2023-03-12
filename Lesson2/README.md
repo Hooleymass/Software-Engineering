@@ -45,3 +45,11 @@ Control structures are used in C programming to control the flow of program exec
 - Do/while loops: used to execute a block of code at least once, and then continue executing the block of code as long as a condition is true.
 In the next lesson, we will cover more advanced concepts in C programming, including arrays, pointers, and functions.
 
+
+
+
+
+<div>
+  <a href="Lesson1/README.md" class="previous-button">&laquo; Previous Page</a>
+  <a href="Lesson3/README.md" class="next-button">Next Page &raquo;</a>
+</div>
