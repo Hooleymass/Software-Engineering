@@ -48,10 +48,7 @@ In the next lesson, we will cover more advanced concepts in C programming, inclu
 
 
 
-
 <div>
-  <a style="align-text: left;" href="https://github.com/Hooleymass/Software-Engineering/tree/main/Lesson3" class="previous-button">&laquo; Previous Page</a>
-</div>
-<div>
-  <a style="align-text: right;" href="https://github.com/Hooleymass/Software-Engineering/tree/main/Lesson3" class="next-button">Next Page &raquo;</a>
+  <a href="https://github.com/Hooleymass/Software-Engineering/tree/main/Lesson1" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; margin-right: 20px;">&laquo; Previous Page</a>
+  <a href="https://github.com/Hooleymass/Software-Engineering/tree/main/Lesson3" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Next Page &raquo;</a>
 </div>

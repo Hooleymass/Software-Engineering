@@ -65,3 +65,10 @@ int main() {
 
 In this example, `fopen()` is used to open the file `"test.txt"` for reading. The `"r"` argument specifies that the file should be opened for reading. The `fscanf()` function is used to read a string from the file into the `str` array, and the `fclose()` function is used to close the file. Finally, `printf()` is used to output the string to the console.
 
+
+
+
+<div>
+  <a href="https://github.com/Hooleymass/Software-Engineering/tree/main/Lesson2" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; margin-right: 20px;">&laquo; Previous Page</a>
+  <a href="https://github.com/Hooleymass/Software-Engineering/tree/main/Lesson4" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Next Page &raquo;</a>
+</div>
