@@ -24,5 +24,5 @@ Once you have installed a C compiler, you can start writing and compiling C code
 
 
 <div>
-  <a href="/Lesson2/README.md" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Next Page &raquo;</a>
+  <a href="../Lesson2/README.md" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Next Page &raquo;</a>
 </div>
