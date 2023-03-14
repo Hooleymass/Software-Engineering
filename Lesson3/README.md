@@ -69,6 +69,6 @@ In this example, `fopen()` is used to open the file `"test.txt"` for reading. Th
 
 
 <div>
-  <a href="https://github.com/Hooleymass/Software-Engineering/tree/main/Lesson2" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; margin-right: 20px;">&laquo; Previous Page</a>
-  <a href="https://github.com/Hooleymass/Software-Engineering/tree/main/Lesson4" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Next Page &raquo;</a>
+  <a href="../Lesson2/README.md" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px; margin-right: 20px;">&laquo; Previous Page</a>
+  <a href="../Lesson4/README.md" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Next Page &raquo;</a>
 </div>
