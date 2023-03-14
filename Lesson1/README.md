@@ -24,5 +24,5 @@ Once you have installed a C compiler, you can start writing and compiling C code
 
 
 <div>
-  <a href="/Hooleymass/Software-Engineering/tree/main/Lesson2" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Next Page &raquo;</a>
+  <a href="/Hooleymass/Software-Engineering/Lesson2" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Next Page &raquo;</a>
 </div>
